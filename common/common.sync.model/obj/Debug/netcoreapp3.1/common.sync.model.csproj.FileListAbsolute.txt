@@ -1,0 +1,13 @@
+D:\Projects\LC\EFCore\common\common.sync.model\bin\Debug\netcoreapp3.1\common.sync.model.deps.json
+D:\Projects\LC\EFCore\common\common.sync.model\bin\Debug\netcoreapp3.1\common.sync.model.dll
+D:\Projects\LC\EFCore\common\common.sync.model\bin\Debug\netcoreapp3.1\common.sync.model.pdb
+D:\Projects\LC\EFCore\common\common.sync.model\obj\Debug\netcoreapp3.1\common.sync.model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LC\EFCore\common\common.sync.model\obj\Debug\netcoreapp3.1\common.sync.model.AssemblyInfoInputs.cache
+D:\Projects\LC\EFCore\common\common.sync.model\obj\Debug\netcoreapp3.1\common.sync.model.AssemblyInfo.cs
+D:\Projects\LC\EFCore\common\common.sync.model\obj\Debug\netcoreapp3.1\common.sync.model.csproj.CoreCompileInputs.cache
+D:\Projects\LC\EFCore\common\common.sync.model\obj\Debug\netcoreapp3.1\common.sync.model.dll
+D:\Projects\LC\EFCore\common\common.sync.model\obj\Debug\netcoreapp3.1\common.sync.model.pdb
+D:\Projects\LC\EFCore\common\common.sync.model\bin\Debug\netcoreapp3.1\common.sync.model.runtimeconfig.json
+D:\Projects\LC\EFCore\common\common.sync.model\bin\Debug\netcoreapp3.1\common.sync.model.runtimeconfig.dev.json
+D:\Projects\LC\EFCore\common\common.sync.model\obj\Debug\netcoreapp3.1\common.sync.model.genruntimeconfig.cache
+D:\Projects\LC\EFCore\common\common.sync.model\obj\Debug\netcoreapp3.1\common.sync.model.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\Projects\LC\EFCore\service\common.sync.IService\bin\Debug\netcoreapp3.1\common.sync.IService.deps.json
+D:\Projects\LC\EFCore\service\common.sync.IService\bin\Debug\netcoreapp3.1\common.sync.IService.dll
+D:\Projects\LC\EFCore\service\common.sync.IService\bin\Debug\netcoreapp3.1\common.sync.IService.pdb
+D:\Projects\LC\EFCore\service\common.sync.IService\obj\Debug\netcoreapp3.1\common.sync.IService.csproj.AssemblyReference.cache
+D:\Projects\LC\EFCore\service\common.sync.IService\obj\Debug\netcoreapp3.1\common.sync.IService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LC\EFCore\service\common.sync.IService\obj\Debug\netcoreapp3.1\common.sync.IService.AssemblyInfoInputs.cache
+D:\Projects\LC\EFCore\service\common.sync.IService\obj\Debug\netcoreapp3.1\common.sync.IService.AssemblyInfo.cs
+D:\Projects\LC\EFCore\service\common.sync.IService\obj\Debug\netcoreapp3.1\common.sync.IService.csproj.CoreCompileInputs.cache
+D:\Projects\LC\EFCore\service\common.sync.IService\obj\Debug\netcoreapp3.1\common.sync.IService.dll
+D:\Projects\LC\EFCore\service\common.sync.IService\obj\Debug\netcoreapp3.1\common.sync.IService.pdb

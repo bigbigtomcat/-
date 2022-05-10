@@ -1,0 +1,10 @@
+D:\Projects\LC\EFCore\common\common.Interface\bin\Debug\netcoreapp3.1\common.Interface.deps.json
+D:\Projects\LC\EFCore\common\common.Interface\bin\Debug\netcoreapp3.1\common.Interface.dll
+D:\Projects\LC\EFCore\common\common.Interface\bin\Debug\netcoreapp3.1\common.Interface.pdb
+D:\Projects\LC\EFCore\common\common.Interface\obj\Debug\netcoreapp3.1\common.Interface.csproj.AssemblyReference.cache
+D:\Projects\LC\EFCore\common\common.Interface\obj\Debug\netcoreapp3.1\common.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LC\EFCore\common\common.Interface\obj\Debug\netcoreapp3.1\common.Interface.AssemblyInfoInputs.cache
+D:\Projects\LC\EFCore\common\common.Interface\obj\Debug\netcoreapp3.1\common.Interface.AssemblyInfo.cs
+D:\Projects\LC\EFCore\common\common.Interface\obj\Debug\netcoreapp3.1\common.Interface.csproj.CoreCompileInputs.cache
+D:\Projects\LC\EFCore\common\common.Interface\obj\Debug\netcoreapp3.1\common.Interface.dll
+D:\Projects\LC\EFCore\common\common.Interface\obj\Debug\netcoreapp3.1\common.Interface.pdb

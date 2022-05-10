@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\common.Interface\common.Interface.csproj" />
+    <ProjectReference Include="..\common.sync.model\common.sync.model.csproj" />
+  </ItemGroup>
+
+</Project>

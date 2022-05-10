@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = common.sync.web
+build_property.ProjectDir = D:\Projects\LC\EFCore\webRoot\common.sync.web\

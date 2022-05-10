@@ -1,0 +1,15 @@
+D:\Projects\LC\EFCore\common\common.Core\bin\Debug\netcoreapp3.1\common.Core.deps.json
+D:\Projects\LC\EFCore\common\common.Core\bin\Debug\netcoreapp3.1\common.Core.dll
+D:\Projects\LC\EFCore\common\common.Core\bin\Debug\netcoreapp3.1\common.Core.pdb
+D:\Projects\LC\EFCore\common\common.Core\obj\Debug\netcoreapp3.1\common.Core.csproj.AssemblyReference.cache
+D:\Projects\LC\EFCore\common\common.Core\obj\Debug\netcoreapp3.1\common.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LC\EFCore\common\common.Core\obj\Debug\netcoreapp3.1\common.Core.AssemblyInfoInputs.cache
+D:\Projects\LC\EFCore\common\common.Core\obj\Debug\netcoreapp3.1\common.Core.AssemblyInfo.cs
+D:\Projects\LC\EFCore\common\common.Core\obj\Debug\netcoreapp3.1\common.Core.csproj.CoreCompileInputs.cache
+D:\Projects\LC\EFCore\common\common.Core\obj\Debug\netcoreapp3.1\common.Core.dll
+D:\Projects\LC\EFCore\common\common.Core\obj\Debug\netcoreapp3.1\common.Core.pdb
+D:\Projects\LC\EFCore\common\common.Core\bin\Debug\netcoreapp3.1\common.sync.model.dll
+D:\Projects\LC\EFCore\common\common.Core\bin\Debug\netcoreapp3.1\common.sync.model.pdb
+D:\Projects\LC\EFCore\common\common.Core\obj\Debug\netcoreapp3.1\common.Core.csproj.CopyComplete
+D:\Projects\LC\EFCore\common\common.Core\bin\Debug\netcoreapp3.1\common.Interface.dll
+D:\Projects\LC\EFCore\common\common.Core\bin\Debug\netcoreapp3.1\common.Interface.pdb
